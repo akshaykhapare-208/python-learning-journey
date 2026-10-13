@@ -1,5 +1,9 @@
 # 00 - Getting Started with Python 🐍
 
+**Name:** Akshay Khapare  
+**Roll Number:** 3  
+**Course:** BSc IT
+
 ## 📌 About This Folder
 
 This folder contains my first steps in learning Python programming using GeeksforGeeks tutorials.
@@ -27,6 +31,7 @@ I will learn what Python is, how to run a Python program, how to write my first 
 | `02-hello-world.py` | First Python program |
 | `03-comments.py` | Comments in Python |
 
+
 ## 🛠️ Requirements
 
 - Python 3
@@ -41,6 +46,9 @@ Open the terminal in the repository's root folder and run:
 python 00-getting-started/01-introduction-to-python.py
 ```
 
+Replace the filename to run another program.
+
+
 ## 💡 My Learning Method
 
 Read → Understand → Type → Run → Experiment → Practise → Review
@@ -50,3 +58,5 @@ My goal is to understand every program I write instead of blindly copying code f
 ---
 
 **Author:** Akshay Khapare  
+**Roll Number:** 3  
+**Course:** BSc IT
