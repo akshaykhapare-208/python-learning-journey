@@ -133,5 +133,3 @@ I follow this process for every topic:
 My goal is not just to complete tutorials, but to become capable of solving problems independently.
 
 ---
-
-## 🚀
