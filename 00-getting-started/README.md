@@ -12,7 +12,6 @@ Welcome to my Python learning journey! This folder contains my first steps in Py
 - Understand the `print()` function.
 - Learn the basics of variables.
 - Accept input from users using `input()`.
-- Practise writing simple Python programs independently.
 
 ## 🛠️ Tools Required
 
@@ -29,7 +28,6 @@ Welcome to my Python learning journey! This folder contains my first steps in Py
 ├── 01-hello-world.py
 ├── 02-variables-intro.py
 ├── 03-user-input.py
-└── practice.md
 ```
 
 ## 📚 Programs
@@ -84,39 +82,4 @@ The `input()` function allows a program to receive information from a user.
 ```python
 name = input("Enter your Name: ")
 age = input("Enter your Age: ")
-stream = input("Enter your Stream : ")
-```
-
-## 📝 Practice Exercises
-
-- [ ] Print my name and roll number.
-- [ ] Create variables for my name, age, and city.
-- [ ] Take the user's name as input and display a greeting.
-- [ ] Ask the user for two numbers and calculate their sum.
-- [ ] Recreate the programs without looking at the examples.
-
-## 🐛 Mistakes and Lessons
-
-I will record errors I encounter, understand why they occur, and document how I solve them.
-
-## 📈 Progress Tracker
-
-- [ ] Install Python and VS Code.
-- [ ] Run my first Python program.
-- [ ] Understand basic variables.
-- [ ] Accept user input.
-- [ ] Complete the practice exercises.
-- [ ] Upload my work to GitHub.
-
-## 🔄 My Learning Method
-
-**Watch → Understand → Code → Experiment → Debug → Practise → Review**
-
-My goal is to understand the code I write rather than blindly copy examples from tutorials.
-
----
-
-**Author:** Siddhant Kapse  
-**Roll Number:** 04
-
-*This folder marks the beginning of my Python programming journey.* 🚀
+stream = input("Enter your Stream : ") '''
