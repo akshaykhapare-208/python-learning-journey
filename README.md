@@ -1,2 +1,4 @@
 # python-learning-journey
-Learning Python From 0
+Learning Python...
+<br>
+AUTHOR: AKSHAY KHAPARE
