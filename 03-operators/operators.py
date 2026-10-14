@@ -1,4 +1,4 @@
-# Operator are used to Do mathetical Operations 
+# Operator are used to Do mathetical Operations Using Variables
 
 num_1 = 100
 num_2 = 200
